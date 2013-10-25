@@ -1,5 +1,6 @@
 safe: true
 lsi: false
 pygments: true
-base_url:       /bloogi
+baseurl:       /bloogi
 permalink:      /:year/:month/:day/:title/
+
