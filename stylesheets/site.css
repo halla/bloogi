@@ -1,4 +1,4 @@
-
+h3 { font-size: 20px; }
 
 #page-navigation { font-size: 2.0em; }
 
@@ -7,3 +7,5 @@
 
 .field-type-image .field-item { float: left; margin-right: 10px; }
 .field-type-image { overflow: hidden; }
+
+.submitted { margin-bottom: 15px; display:block; color: #777; font-size: 12px; }
