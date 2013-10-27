@@ -6,6 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <!-- Bootstrap -->
     <link href="{{ site.baseurl }}/bootstrap/css/bootstrap.min.css" rel="stylesheet" media="screen">
+    <link href="{{ site.baseurl }}/stylesheets/colorbox.css" rel="stylesheet" >
     <link href="{{ site.baseurl }}/stylesheets/site.css" rel="stylesheet" >
     <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!--[if lt IE 9]>
@@ -91,6 +92,20 @@
     <script src="//code.jquery.com/jquery.js"></script>
     <!-- Include all compiled plugins (below), or include individual files as needed -->
     <script src="{{ site.baseurl}}/bootstrap/js/bootstrap.min.js"></script>
+    <script src="{{ site.baseurl}}/javascripts/jquery.colorbox-min.js"></script>
+    <script>
+    
+    function gallerize() {
+        $('a.gallerize').colorbox({
+                opacity : 0.8,
+                rel : 'group1',
+                current : "Kuva {current} / {total}",
+                maxHeight : '100%',
+        });	
+    }
+    $(document).ready(function() { gallerize(); });
+
+    </script>
   </body>
 </html>
 

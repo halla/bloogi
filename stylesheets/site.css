@@ -4,3 +4,6 @@
 
 #page-navigation .left { float: left; }
 #page-navigation .right { float: right; }
+
+.field-type-image .field-item { float: left; margin-right: 10px; }
+.field-type-image { overflow: hidden; }
