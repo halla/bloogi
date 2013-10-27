@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Welcome
+title: Maailmanympärimatkalta 2009
 ---
 
 
@@ -11,9 +11,11 @@ title: Welcome
 
 <p>
       Kaivoin naftaliinsta vanhan matkablogini, jonka ajattelin laittaa takaisin näkyville nettiin. Testaan samalla Githubin Pages- toimintoa ja saitin generointia Jekyllillä.</p>
+      
+      <p>Homma on vielä vaiheessa. Tekstit jo näkyvät. Kaikki kuvat esim puuttuvat vielä.</p>
 <h2>Postaukset</h2>
 <ul>
-  {% for post in site.posts %}
+  {% for post in site.posts reversed  %}
     <li>
       <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
     </li>

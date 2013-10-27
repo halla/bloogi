@@ -1,12 +1,12 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>{{title}}</title>
+    <title>{{page.title}}</title>
     <meta content="text/html; charset=utf-8" http-equiv="Content-Type"> 
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <!-- Bootstrap -->
     <link href="{{ site.baseurl }}/bootstrap/css/bootstrap.min.css" rel="stylesheet" media="screen">
-
+    <link href="{{ site.baseurl }}/stylesheets/site.css" rel="stylesheet" >
     <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!--[if lt IE 9]>
       <script src="../../assets/js/html5shiv.js"></script>
@@ -24,20 +24,27 @@
     <div class="container">
       <div class="row">
       <div class="col-md-6">
+      <h1>{{ page.title}}</h1>
+      {% if page.category %}
+      
+	{{ page.category }}
+      {% endif %}
       {{ content }}
       <div id="page-navigation">
         <div class="clear">&nbsp;</div>
         <div class="left">
         {% if page.previous.url %}
-                <a href="{{ site.baseurl}}{{page.previous.url}}" title="Previous Post:
-{{page.previous.title}}">&laquo; {{page.previous.title}}</a>
+		
+                <a class="btn btn-default btn-lg" href="{{ site.baseurl}}{{page.previous.url}}" title="Edellinen:
+{{page.previous.title}}">&laquo; Edellinen: {{page.previous.title}}</a>
         {% endif %}
         </div>
 
         <div class="right">
         {% if page.next.url %}
-                <a href="{{ site.baseurl}}{{page.next.url}}" title="next Post:
-{{page.next.title}}">{{page.next.title}} &raquo; </a>
+	    
+                <a class="btn btn-default btn-lg" href="{{ site.baseurl}}{{page.next.url}}" title="Seuraava:
+{{page.next.title}}">Seuraava: {{page.next.title}} &raquo; </a>
         {% endif %}
         </div>
         <div class="clear">&nbsp;</div>
