@@ -13,13 +13,24 @@ title: Maailmanympärimatkalta 2009
       Kaivoin naftaliinsta vanhan matkablogini, jonka ajattelin laittaa takaisin näkyville nettiin. Testaan samalla Githubin Pages- toimintoa ja saitin generointia Jekyllillä.</p>
       
       <p>Homma on vielä vaiheessa. Tekstit jo näkyvät. Kaikki kuvat esim puuttuvat vielä.</p>
+      
+{% assign section = '' %}
 <h2>Postaukset</h2>
 <ul>
   {% for post in site.posts reversed  %}
+    {% if post.section != section and  post.section != bling %}
+      {% if section != '' %}
+        </ul>
+      {% endif %}
+      {% capture section %}{{ post.section }}{% endcapture %}
+      <li> {{ section }} </li>
+      <ul>
+    {% endif %}
     <li>
       <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
     </li>
   {% endfor %}
+  </ul>
 </ul>
 
       </section>
