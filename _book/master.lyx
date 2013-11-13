@@ -10,7 +10,7 @@ eqs-within-sections
 figs-within-sections
 \end_modules
 \maintain_unincluded_children false
-\language english
+\language finnish
 \language_package default
 \inputencoding auto
 \fontencoding global
@@ -82,7 +82,7 @@ frontmatter
 \end_layout
 
 \begin_layout Standard
-\begin_inset VSpace 3cm*
+\begin_inset VSpace 2cm*
 \end_inset
 
 
@@ -103,6 +103,16 @@ Harhailua ja ihmettelyä
 \size larger
 \SpecialChar \nobreakdash-
  Reppumatka maailman ympäri
+\end_layout
+
+\begin_layout Standard
+\align center
+Antti Halla
+\end_layout
+
+\begin_layout Standard
+\align center
+(Draft 13.11.2013)
 \end_layout
 
 \begin_layout Standard
@@ -158,18 +168,18 @@ Alkusanat
 \end_layout
 
 \begin_layout Standard
-Kirjoitin vuonna 2009 blogia maailmanympärimatkallani.
- Tarkoitus olisi vähitellen koostaa tekstiä kirjamaisempaan muotoon.
- Pidin myös koko matkan päiväkirjaa, jonka tekstien pohjalta tulen täydentämään
- tekstiä.
+Lähdin vuonna 2009 reppumatkalle Intiaan ilman tarkkoja suunnitelmia.
+ Reissusta muodostui lopulta neljän kuukauden matka pallon ympäri.
+ Kirjoitin tien päältä blogia, joinka nyt päätin koostaa pieneksi kirjaksi.
+ Pidin myös koko matkan päiväkirjaa, jonka pohjalta täydennän blogin tarinoita.
  Esimerkiksi kahden viikon rahtilaivaosuus Hongkongista Los Angelesiin tuli
- aikanaan kuitattua parilla sanalla ja kuvalla.
+ aikoinaan kuitattua parilla sanalla ja kuvalla.
  
 \end_layout
 
 \begin_layout Standard
-Julkaisutyö tapahtuu vähitellen 2013/2014 aikana.
- Luet siis keskeneräistä kirjaa.
+Luet siis keskeneräistä kirjaa.
+ Julkaisutyö tapahtuu vähitellen 2013/2014 aikana.
  Kirja päivittyy sitä mukaa kun uutta tekstiä syntyy.
 \end_layout
 
@@ -182,26 +192,11 @@ Lähtö
 \end_layout
 
 \begin_layout Standard
-
-\lang finnish
-Muuttaminen ei perinteisesti ollut lempipuuhiani, varsinkaan talvella muuttamine
-n.
- Liukastella viimeisiään vetelevällä vuokrapakettiautolla Helsingin keskustassa.
- 
-\begin_inset Newline newline
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-
-\lang finnish
-Olin saanut tyhjennettyä kämppäni, palautettua avaimet ja junailtua itseni
- Hämeenlinnaan evakkoon pariksi päiväksi.
- Pakkasta parikymmentä astetta [tarkista] ja lunta polveen asti.
- Helsingin ytimen jälkeen pari päivää rauhallisella omakotialueella jo tuntui
- hieman kuin olisi ulkomailla.
+Olin saanut tyhjennettyä Helsingin keskustan kämppäni, palautettua avaimet
+ ja junailtua itseni Hämeenlinnaan evakkoon pariksi päiväksi.
+ Pakkasta parikymmentä astetta ja lunta polveen asti.
+ Pääkaupungin ytimen jälkeen pari päivää rauhallisella omakotialueella jo
+ tuntui hieman kuin olisi ulkomailla.
  Voi kuunnella hiljaisuutta ja katsella lumihiutaleiden leijailua.
  Tai olisi voinut.
  En muista mitä silloin tein.
@@ -209,188 +204,202 @@ Olin saanut tyhjennettyä kämppäni, palautettua avaimet ja junailtua itseni
 \end_layout
 
 \begin_layout Standard
+Vielä viimeiset säädöt, rinkan pakkaaminen bussilla lentokentälle, kohti
+ Delhiä.
+ 
+\end_layout
 
-\lang finnish
-Pyrin ajattelemaan matkani alkaneen jo.
+\begin_layout Chapter*
+Ilmatietä Intiaan
+\end_layout
+
+\begin_layout Standard
+Lento Delhiin lähti illalla Helsinki-Vantaalta.
+ Menopaluulipusta oli tarkoitus käyttää vain puolet, oli vain jostain syystä
+ halvempi kuin pekkät meno.
+ Olin varannut netistä kolme yötä hostellissa reppumatkailijoiden suosimalla
+ Paharganjin alueella Delhin.
+ Tavoitteeni ensimmäiselle päivälle oli lähinnä selvitä jotenkin lentokentältä
+ perille majapaikkaan ja vähitellen alkaa sopeutua paikalliseen peruskaaokseen.
+\end_layout
+
+\begin_layout Standard
+Lennot ovat jonkinlaisia jänniä välitiloja, joiden aikana on aikaa ajatella
+ asioita.
+ Jotkut katsovat ruutua koko lennon.
+ Minä usein vaan istun ja mietin, kirjoittelen jotain, kuuntelen musiikkia.
+ Taisin aikoinaan menetää uskoni lentokoneiden multimediähärveleihin niiden
+ surkean äänenlaadun vuoksi.
+\end_layout
+
+\begin_layout Standard
+En ajatellut matkaa lomana.
+ Loma se oli toki siinä mielessä, ettei minun varsinaisesti tarvinnut tehdä
+ mitään.
+ Kuitenkin halusin ja aion tehdä jotain, josta voisi olla iloa muillekin.
  
 \end_layout
 
 \begin_layout Standard
-
-\lang finnish
-Ikään kuin ei stressiä.
- Suoranaisesti.
- Säädän asioita.
- Haluan oppia säätämään asioita.
- Siis säädän ainakin puoliksi mielelläni.
-\end_layout
-
-\begin_layout Standard
-
-\lang finnish
-Aika on kulunut jotenkin tosi hyvin.
- Vähän liiankin hyvin.
- Näillä skilsseillä tähän säätöön tosiaankin menee se kuukausi ihan helposti.
- Joitain hommia olisi toisaalta voinut jättää tekemättäkin, ja joitain optimoima
-tta, joitain suoraan ostaa rahalla.
- Joten ehkä tämän säädön voisi kutistaa viikkoon pariin jos tietäisi mitä
- on tekemässä.
- Ehkä se muutto sinänsä kuitenkin on suurin tekeminen tässä.
- Ja onhan tässä kulunut paljon aikaa ih2an opiskeluun ja fiilistelyynkin,
- jota profet eivät tietenkään tarvitse.
-\end_layout
-
-\begin_layout Standard
-
-\lang finnish
-Vielä viimeiset säädöt, rinkan pakkaaminen ja seuraavana tiistaina bussilla
- lentokentälle, kohti Delhiä.
- 
+Alkuperäinen ennustukseni oli, että matkustaisin kolmisen kuukautta, alkaen
+ Intiasta ja siirtyen Nepalin kautta jossain vaiheessa Kiinaan, josta palaisin
+ kotiin.
+ Tarkoitukseni ei ollut nähdä kaikkea kaikkialla, vaan enemmänkin opetella
+ matkustamaan ja elämään vieraissa kulttuureissa.
+ En edes halunnut käydä kaikkialla, vaan enemmänkin, että voin halutessani
+ myöhemmin saada enemmän irti mistä tahansa paikasta mihin sitten matkustankin.
+ Oli se sitten kotona Suomessa tai jossain muualla paikassa, josta en vielä
+ ole kuullutkaan.
+ Ennustus siksi, että varsinaista suunnitelmaa ei ollut.
 \end_layout
 
 \begin_layout Chapter
 Intia
 \end_layout
 
-\begin_layout Section*
-Delhissä
-\end_layout
-
-\begin_layout Standard
-Kirjoitettu: Helmikuu 5th, 2009 by anttih
-\end_layout
-
-\begin_layout Standard
-Noniin.
- Nyt siis täällä Delhissä Karol Baghissa (...).
- Täällä niin pitkään kunnes keksin mihin haluan mennä ja miten täältä pääsee
- pois.
- 
-\end_layout
-
 \begin_layout Section
-Agrassa 
+Delhi
+\end_layout
+
+\begin_layout Quote
+Mitäköhän v....a mä täällä oikeestaan edes teen? (päiväkirja 4.1.2009)
 \end_layout
 
 \begin_layout Standard
-Kirjoitettu: Helmikuu 7th, 2009 by anttih
+Lento oli perillä kuudelta aamulla.
+ Olin Vantaalla lähtiessä tavannut suomalaisen Mikon, joka oli ilmeisestikin
+ varannut paikan samasta hostellista kuin minäkin.
+ Päätettiin lähteä etsimään taksia yhdessä.
 \end_layout
 
 \begin_layout Standard
-Olen Agrassa ja odottelen illalla lahtevaa junaa kohti Varanasia.
- Aika rasittavaa saatamista varsinkin matkojen ja yopaikkojen kanssa taalla.
- Kaippa tahankin tottuu.
-\end_layout
-
-\begin_layout Standard
-Turistibisnekseen tutustumassa Kirjoitettu: Helmikuu 7th, 2009 by anttih
-\end_layout
-
-\begin_layout Standard
-Muutama paiva reissua nyt takana.
- Pari paivaa meni Delhia ihmetellessa.
- Tapasin lentokentalla suomalaisen Mikon, jonka kanssa aika kului kaupungilla
- harhaillessa.
- Kaksi valkoista naamaa veti puoleensa ihan kohtuullisen maaran kaikenlaisia
- paikallisia yrittajia, jotka olisivat mielellaan myyneet meille millon
- mitakin ja auttaneet meita paasemaan eroon rahoistamme.
-\end_layout
-
-\begin_layout Standard
-Kahden viikon Intian kokemuksella parin vuoden takaa olin varma etta talla
- kerralla uin taalla kylla kuin kala vedessa ja tunnistan kaikenmaailman
+Kahden viikon Intian kokemuksella parin vuoden takaa olin varma etta tällä
+ kerralla uin täällä kyllä kuin kala vedessa ja tunnistan kaikenmaailman
  huijarit jo kaukaa.
  Noh.
- Ensimmainen taksikuski vei meidat johonkin turistibyrooseen kun ei tietenkaan
- osannut tieta annettuun osoitteeseen.
- Siella meille sitten diilattiin hotellihuone ja kovasti olivat myymassa
+ Ensimmainen taksikuski vei meidät johonkin turistibyrooseen kun ei tietenkaan
+ osannut tietä annettuun osoitteeseen.
+ Siellä meille sitten diilattiin hotellihuone ja kovasti olivat myymässä
  matkoja ympari Intiaa.
  Eli perusmeininki.
- Hieman rasittavaa pidemman paalle.
- Ja tuntee itsensa jokseenkin urpoksi, kun koko ajan vedatetaan yhdessa
- jos toisessa asiassa.
- Tokihan tassa oppii koko ajan yhta sun toista paikallisista tavoista harjoittaa
- liiketoimintaa.
+ Hieman rasittavaa pidemmän päälle.
+ Se saa tuntemaan itsensä tyhmäksi, kun toistuvasti vedätetään yhdessä jos
+ toisessakin asiassa.
+ Tokihan siinä oppii yhtä sun toista paikallisista tavoista harjoittaa liiketoim
+intaa.
 \end_layout
 
 \begin_layout Standard
-Tulin Agraan lahinna, koska halusin pois Delhista.
- Taalta pitas saada helpommalla juna Varanasiin, jossa jostain syysta haluan
- kayda.
- Saa nahda miten kay.
-\end_layout
-
-\begin_layout Section
-Kuvia Delhistä 
-\end_layout
-
-\begin_layout Standard
-Kirjoitettu: Helmikuu 10th, 2009 by anttih
-\end_layout
-
-\begin_layout Standard
-Pari kuvaa Delhista.
+Olin Delhin Karol Baghissa, Paharganjin sijaan.
+ Ei se oikeastaan minua haitannut, paikka oli melkein samoilla kulmilla
+ kuitenkin.
+ Hermostuin lähinnä periaatteen vuoksi, kun asiat evät menneet niin kuin
+ alunperin ajattelin.
+ Ehkä se oli ihan hyvä vaihto, Pahari vaikutti vielä rasittavammalta paikalta,
+ kun sieltä läpi kävelimme.
+ “Mai freend, veer juu from?”, ja sitä rataa.
+ Karolissa olin edelliselläkin kerralla ollut, joten vähän kuin tutulla
+ seudulla.
  
 \end_layout
 
 \begin_layout Standard
-Lisailen sita mukaa ku netti toimii...
-\end_layout
-
-\begin_layout Standard
-Melkein koko paikka on meikalaisten mittapuun mukaan enemman tai vahemman
- slummahtavaa seutua.
- Taalla harvoin on kovin paljon pakkasta, joten kadullakin tarkenee.
- Kontrastina hokkelimeiningille ovat toki jattimaiset monumentit puistoalueineen.
+Pari paivaa meni Delhiä ihmetellessä.
+ Aika kului pitkälti Mikon kanssa kaupungilla harhaillessa ja tietä takaisin
+ omalle hotellille etsiessä.
+ Kaksi valkoista naamaa veti puoleensa ihan kohtuullisen maaran kaikenlaisia
+ paikallisia yrittäjiä, jotka olisivat mielellaan myyneet meille millon
+ mitakin ja auttaneet meitä pääsemään eroon rahoistamme.
+ Perusylivarovaisina päädyttiin kaksi kertaa samana päivänä syömään mäkkärille.Ho
+mma meni tavallaan paljon sujuvammin kuin edellisellä kerralla Intiassa.
+ Eli käytännössä olin vielä suht järjissäni ja toimintakykyinen vaikka oli
+ ollutkin aika rankka päivä.
  
 \end_layout
 
 \begin_layout Section
-Kuvia Varanasista
+Delhi-Agra
 \end_layout
 
 \begin_layout Standard
-Kirjoitettu: Helmikuu 10th, 2009 by anttih
+Rautatieasemakin löytyi ja useampi paikka joista lippuja voi ostaa.
+ Selvisi, että liput pitäisi varata kuusi päivää etukäteen.
+ Ensiksi alkuun en sitäkään uskonut, en oikein tiennyt enää ketä uskoa.
+ Yksi vaihtoehto oli varata minibussi agraan ja juna sieltä eteenpäin.
+ 
+\end_layout
+
+\begin_layout Standard
+Aloin olla hieman väsynyt.
+ Intiashokki oli kova, vaikka olin sen kerran aiemmin jo kokenut.
+ En jaksanut selvitellä junia ja muita niin kävelin johonkin matkatoimistoon
+ ja otin kuskin Delhistä Agraan ja hotellin yöksi.
+ Aika moni käy kaupungissa Taj Mahalin takia, minä lähdin Agraan lähinnä
+ päästäkseni pois Delhista.
+ Olin myös kuullut, että juna Varanasiin, jossa jostain syystä halusin käydä,
+ voisi löytyä sieltä helpommalla.
+ 
+\end_layout
+
+\begin_layout Section
+Agra
+\end_layout
+
+\begin_layout Standard
+Päädyin johonkin toimistoon selvittämään miten matka Varanasiin onnistuisi.
+ Avauduin matkatoimiston sedälle heidän tavasta myydä ja tuputtaa asioita.
+ Yllättäen sieltä tulikin varsin pätevän kuuloinen puolustus toimintatavalle.
+ Kato nyt näitä ihmisiä, täällä tien varret täynnä toimettomina.
+ Yritän antaa näille edes jotain töitä.
+ Ja mikä hinta tämäkin on sinulle? Peanuts.
+ Ei me näillä kovin leveästi eletä, katso kuinka monta kilpailevaa matkatoimisto
+a tälläkin tiellä on.
+ Jokin siinä puheessa liikutti minua.
+ Ehkä se oli se, että ensimmäistä kertaa joku näistä kauppamiehistä kuulosti
+ puhuvan suoraan sydämestään?
+\end_layout
+
+\begin_layout Section
+Agra-Varanasi
+\end_layout
+
+\begin_layout Standard
+Juna löytyi lopulta.
+ Ilta vierähti mukavasti asemalla sitä odotellessa.
+ Se oli lähtiessään aika monta tuntia myöhässä ja saapuessaan perille vielä
+ vähän useamman tunnin.
+ 
+\end_layout
+
+\begin_layout Standard
+Nukuin yläpedillä, rinkka alapedin alla.
+ Vähän jännitti.
+ 
+\end_layout
+
+\begin_layout Standard
+Tyyppejä kävi myymässä jotain.
+ Muistin tarinoita joissa vain peloteltiin ostamasta mitään joten en tainnut
+ sitten ostaa mitään.
+ Aloin hieman epäillä näiden tarinoiden yleistä sovellettavuutta.
+\end_layout
+
+\begin_layout Section
+Varanasi
+\end_layout
+
+\begin_layout Standard
+Minulle sinänsä oli sama vaikka juna olisi ollut päivän myöhässä.
+ Vastassa olleelle oppaalle se ilmeisesti ei ollut.
+ Jotain se kiukutteli että mennyt päivä sekaisin aikataulun takia.
+ Luulisi nyt olleen kuitenkin jo tottunut myöhästelyihin, iso mies.
 \end_layout
 
 \begin_layout Standard
 Paikallisena erikoisuutena Varansissa on Ganges ja sen rannalla olevat Ghatit
  ja vanhan kaupungin sokkeloiset kapeat kujat.
- Muuten kaupunki vaikuttaisi perusintialaiselta sekamelskalta.
-\end_layout
-
-\begin_layout Standard
-Lisailen kuvia vahitellen.
-\end_layout
-
-\begin_layout Section
-Varanasissa 
-\end_layout
-
-\begin_layout Standard
-Kirjoitettu: Helmikuu 10th, 2009 by anttih
-\end_layout
-
-\begin_layout Standard
-Varanasissa viela ainakin kaks yota.
- Tarkotus olis junailla itseni pohjoisen suuntaan Gorakhpuriin, josta pitais
- sitten paasta Nepalin puolelle.
- Jotain kuvia olis Delhista ja taalta Varanasista, mutta nettiyhteydet on
- vahan mita on joten kuvien siiroon kanssa pikku haasteita.
- Sijainti Varanasi India
-\end_layout
-
-\begin_layout Section
-Harhailua ja ihmettelyä 
-\end_layout
-
-\begin_layout Standard
-Kirjoitettu: Helmikuu 11th, 2009 by anttih
-\end_layout
-
-\begin_layout Standard
-Pari paivaa palloillut Varanasissa.
- Ei mitaan tarkempia ja ihmeempia suunnitelmia sinansa.
+ Muuten kaupunki vaikuttikin sitten perusintialaiselta sekamelskalta.
+ Palloillin paikasta toiseen ilman sen kummempia suunnitelmia.
 \end_layout
 
 \begin_layout Standard
@@ -400,39 +409,35 @@ Ihmetellyt rannalla ihmisia puuhailemassa ja viettamassa aikaa.
  kukkasia, joku pilvea, joku kerjaa rahaa, jotakuta saatetaan seuraavaan
  elamaansa polttamalla avotulella tai kippaamalla Gangaan kivi jalassa.
  Aurinko paistaa ja kaikki on hyvin.
+ 
 \end_layout
 
 \begin_layout Standard
-Kavellyt kilometritolkulla polyisia katuja jokapaivaisessa liikennekaaoksessa,
+Kävelin kilometritolkulla pölyisia katuja jokapäiväisessä liikennekaaoksessa,
  sulavahkossa sovunkaltaisessa yhdessa autojen, rekkojen, mopojen, riksojen,
  lehmien, lampaiden ja koirien kanssa.
  Loputtomia katuja reunustavat loputtomat rivit erilaisia puutiikkeja myyden
- mita taalla sitten myydaankin.
- Taalla ei ole r-kioskeja, mutta jos olisi niin niita olisi luultavasti
- 50m valein ja molemmilla puolilla katua.
- Jokseenkin turha edes yrittaa pysya kartalla.
- Itse asiassa en ole sellaista tasta paikasta edes hankkinut.
- On toki hyva tunnistaa omat kotikulmat ja painaa mieleen maamerkkeja ja
+ mitä täällä sitten myydäänkin.
+ Täällä ei ole R-kioskeja, mutta jos olisi niin niitä olisi luultavasti
+ 50 metrin välein ja molemmilla puolilla katua.
+ Oli jokseenkin turha edes yrittää pysya kartalla.
+ En sellaista tästä paikasta edes hankkinut.
+ On toki hyvä tunnistaa omat kotikulmat ja painaa mieleen maamerkkeja ja
  paikkojen nimia.
- Kun ei enaa jaksa kavella niin nappaa kadulta riksakuskin, joka pienen
+ Kun ei enää jaksa kävellä niin nappaa kadulta riksakuskin, joka pienen
  kinastelun jalkeen suostuu kyytiin johonkin kohtuullisen hyvaksyttavaan
  ylihintaan.
  
 \end_layout
 
 \begin_layout Standard
-Jostain syysta taalla alkaa olo tuntua jo jossain maarin turvalliselta.
- Eniten taalla pelkaa tormaavansa jollakin metrin kapealla kujalla johonkin
- innostuneeseen sonniin tai katukoiralaumaan joka on paattanyt alkaa paallikoima
-an pimean tultua.
-\end_layout
-
-\begin_layout Standard
-Mita tasta nyt viela sanoisi.
- Meininki ymparilla on vahan kuin olisi telkkari koko ajan paalla.
- En yhtaan ihmettele, etta taalla jengi on gurua meditoimaan.
+Jostain syystä täällä alkoi jo olo tuntua jossain määrin turvalliselta.
+ Eniten täällä pelkaa törmääväänsä jollakin metrin kapealla kujalla johonkin
+ innostuneeseen sonniin tai pimeän tultua kokoontuneeseen katukoiralaumaan.
+ Meininki ympärillä oli vähän kuin olisi televisio ollut koko ajan päällä.
+ En yhtään ihmettele, että täällä jengi on gurua meditoimaan.
  Pakko olla.
- Jos taalla haluaa rauhaa sita on turha etsia paan ulkopuolelta.
+ Jos täällä haluaa rauhaa sitä on turha etsia pään ulkopuolelta.
 \end_layout
 
 \begin_layout Chapter
@@ -440,36 +445,38 @@ Nepal
 \end_layout
 
 \begin_layout Section
-Pokhara, Nepal 
+Maiseman vaihtoa - Nepaliin
 \end_layout
 
 \begin_layout Standard
-Kirjoitettu: Helmikuu 13th, 2009 by anttih
+Yöpaikan vieressa tapasin Nepalilaisen taksikuskin, oli pesemässä kujalla
+ autoaan.
+ Oliskohan ollut 18v ellei nuorempikin.
+ Lupasi heittää minut Pokharaan, ja vielä jollain ihan mahdollisella hinnallakin.
+ Isänsä siinä vähän epäröi diiliä.
+ Otin kuitenkin yhteystiedot ja sanoin miettiväni asiaa.
+ 
 \end_layout
 
 \begin_layout Standard
-20h bussissa istumista takana, puolessa valissa hamyinen rajanylitys aamuviidelt
-a.
- Vasta nopea ensisilmays kaupunkiin, mutta vaikuttaisi silta etta oon tullut
- just oikeaan paikkaan.
-\end_layout
-
-\begin_layout Section
-Maiseman vaihtoa 
+Päädyin kuitenkin ostamaan junaliput naapurin matkatoimistosta.
+ Kyllä niistä ihan palvelua sai, tietenkin ottavat välistä jotain, mutta
+ pääsi vähän helpommalla.
+ Ei se kuitenkaan maksanut juuri mitään.
 \end_layout
 
 \begin_layout Standard
-Kirjoitettu: Helmikuu 14th, 2009 by anttih
+Tarkotus olis junailla itseni pohjoisen suuntaan Gorakhpuriin, josta pitais
+ sitten paasta Nepalin puolelle.
 \end_layout
 
 \begin_layout Standard
-Vihdoinkin paikassa, jossa voi aidosti levähtää.
- Alunperin tarkoitukseni oli aloittaa Nepaliin tutustuminen pääkaupungista
- Kathmandusta ja hakeutua sielta myöhemmin vaeltelemaan johonkin maan monesta
- kansallispuistosta.
- Jutellessani matkan varrella muiden reissaajien kanssa suosittelivat minulle
- kohteeksi Pokharaa, jos haluaisin johonkin vähän rauhallisemmille mestoille.
- Intiahärdellin jälkeen ajatus vaan jotenkin houkutteli.
+Lopulta löysinkin itseni bussista.
+ Joku sanoi, ettei junassa ole mitään järkeä, uskoin.
+\end_layout
+
+\begin_layout Standard
+10h bussissa rajalle, väkeä tuli ja meni, uusia nukkuma-asentoja
 \end_layout
 
 \begin_layout Standard
@@ -478,6 +485,7 @@ Nappasin illalla bussin Varanasista Sunauliin Nepalin rajalle.
  Toisaalta 10h hurahti ohi yllättävän nopeasti.
  Jossain vaiheessa aamuyöstä sain jopa hetken untakin, kun opin naapureiltani
  pari uutta asentoa nukkua istuvaltaan ahtaassa tilassa kuoppaisella tiellä.
+ 
 \end_layout
 
 \begin_layout Standard
@@ -491,6 +499,7 @@ Rajanylitys väsyneenä pimeässä ja sumussa aamuyöstä viiden kuuden aikaan
  raja-asemien kanssa, vaihtamaan rahaa ja hankkimaan liput saman tein lähtevään
  bussiin kohti Pokharaa.
  Kohtuullista korvausta vastaan tietenkin.
+ 
 \end_layout
 
 \begin_layout Standard
@@ -500,155 +509,81 @@ Seuraavatkin 10h bussiköröttelyä menivät ohi ihan mukavasti.
  reunalla kuskin huristellessa ihan hyvää kyytiä kapeilla vuoristoteillä.
 \end_layout
 
+\begin_layout Section
+Pokhara
+\end_layout
+
 \begin_layout Standard
-Perille kuitenkin päästiin ja vaikuttaisi siltä että tulo tänne oli loistovalint
-a.
- Tässä on aika huikeat vuoristot naapurissa, mukana myös muutama yli 8km
- huippu.
+Ensisilmäys kaupunkiin riitti vakuuttamaan, että olin tullut oikeaan paikkaan.
+ Vihdoinkin paikassa, jossa voi aidosti levähtää.
+ Alunperin tarkoitukseni oli aloittaa Nepaliin tutustuminen pääkaupungista
+ Kathmandusta ja hakeutua sielta myöhemmin vaeltelemaan johonkin maan monesta
+ kansallispuistosta.
+ Jutellessani matkan varrella muiden reissaajien kanssa oliva kuitenkin
+ suositelleet minulle kohteeksi Pokharaa, jos haluaisin johonkin vähän rauhallis
+emmille mestoille.
+ Intiahärdellin jälkeen ajatus jotenkin houkutteli.
+\end_layout
+
+\begin_layout Standard
+Kaupungin vieressä häämöttävä vuoristo oli huikea näky.
+ Joukossa on myös muutama yli 8km huippu.
+ Kirkkaimmillaan ilmat kuulemma ovat loka-joulukuussa, jolloin täällä on
+ myös eniten trekkaajia.
+ Nyt maisemat peittyivät harmaaseen utuun.
  Annapurnan suojelualue on ainakin jonkin mittarin mukaan yksiä maailman
- parhaimmista trekkauspaikoista.
- Mutta jos ensin kuitenkin lepäilisi pari päivää.
+ parhaimmista trekkauskohteista.
+ Ensin halusin kuitenkin levätä pari päivää.
+\end_layout
+
+\begin_layout Standard
+Minulla oli hotelli Lakesidessa, jossa suuri osa muistakin matkaajista asui.
+ Ensimmäistä kertaa aloin laskeskella, kuinka halpaa elämä paikassa oli.
+ Käytännöllisesti katsoen täysihoidossa 30 dollarilla päivässä, vaikka en
+ edes yrittänyt säästää rahaa.
 \end_layout
 
 \begin_layout Section
-Kuvia Pokharasta 
+Vuorille - Annapurna
 \end_layout
 
-\begin_layout Standard
-Kirjoitettu: Helmikuu 15th, 2009 by anttih
+\begin_layout Quote
+Päivä 1, Eka legi takana, Ulleri, 2010m
 \end_layout
 
-\begin_layout Standard
-Muutama sumuinen kuva Pokharasta.
- Jos tarkkaan katsoo niin saattaa nähdä taustalla häämöttävän vuoriston.
- Kirkkaimmillaan täällä ovat ilmat kuulemma loka-joulukuussa, jolloin täällä
- on myös eniten trekkaajia.
- 
-\end_layout
-
-\begin_layout Section
-Vuorille 
-\end_layout
-
-\begin_layout Standard
-Kirjoitettu: Helmikuu 15th, 2009 by anttih
-\end_layout
-
-\begin_layout Standard
-Huomenna aamulla olisi tarkoitus lahtea kavelemaan vuorille.
- Ohjemassa olisi noin 10 paivan reissu kiipeilijoiden perusleiriin Annapurna
- Base Campille ja takaisin.
- Kyseessa ei varsinaisesti ole mikaan eramaavaellus vaan "tea-house-trekking"
- eli suomeksi teetupatallustelua: yopaikat ja ruuat yms loytyvat matkan
- varrelta.
- ABC on yli 4km korkeudessa, joten pitaa edeta hissukseen etta ei tuu paapipi.
- Blogi saattaa siis hetkeksi hieman hiljeta.
-\end_layout
-
-\begin_layout Section
-Kuvia Annapurnalta 
-\end_layout
-
-\begin_layout Standard
-Kirjoitettu: Helmikuu 26th, 2009 by anttih
-\end_layout
-
-\begin_layout Standard
-En oikein edes muista mitä odotin retkeltä, mutta 11 päivää Annapurnan suojelual
-ueella oli aika huimaa.
- Alueella suojellaan myös ihmisiä ja vanhoja vuoristokulttuureita, joten
- paikoin olo oli kuin jonkinlaisessa jättimäisessä elävässä ulkoilmamuseossa.
- Jyrkkien rinteiden loputon kipuaminen ja kapuaminen rinkka selässä teki
- siinä sivussa ajasta ihan pätevän kuntoiluleirin.
- Matkaa kertyi lopulta reilut 100 km, josta noin puolet ylämäkeä ja puolet
- alamäkeä.
- 
-\end_layout
-
-\begin_layout Standard
-Mukana oli paikallinen opas, joka auttoi hoitamaan kaikki tarvittavat säädöt.
- Hän tunsi paikat ja ihmiset, joten minulle jäi hommaksi lähinnä kävely
- ja maailman ihmettely.
- Muita reissaajia tuli tavattua joka päivä.
- Tungokseksi asti porukkaa ei kuitenkaan ollut, sillä nyt ei jostain syystä
- kuulemma ole turistikausi.
- Mulle sopi ihan hyvin kyllä.
-\end_layout
-
-\begin_layout Section
-ABC-päiväkirjat 
-\end_layout
-
-\begin_layout Standard
-Kirjoitettu: Helmikuu 28th, 2009 by anttih
-\end_layout
-
-\begin_layout Standard
-Vasta pari päivää ollut taas kaupungissa, mutta Annapurnan reissu tuntuu
- jo kaukaiselta menneisyydeltä.
- Se oli jokin oma maailmansa.
- En osaa ainakaan juuri nyt kirjoittaa siitä juuri mitään, mutta ehkä päiväkirja
-merkinnöistä saa jotain irti.
- Kertonevat ainakin jotain mitä pään sisällä tapahtui.
- Pään ulkopuolisia asioita taitaa kyllä nähdä paremmin kuvista.
-\end_layout
-
-\begin_layout Standard
----
-\end_layout
-
-\begin_layout Standard
-Päivä 1
-\end_layout
-
-\begin_layout Standard
-Eka legi takana, Ulleri, 2010m
-\end_layout
-
-\begin_layout Standard
+\begin_layout Quote
 No huh huh! Oli vähän paljon rankempi kuin mitä odotin.
  Hemmetti 5h portaiden kiipeämistä.
  Saa nähdä miten mä selviän.
 \end_layout
 
 \begin_layout Standard
-Päivä 2
+Lähtö vuorille kävelemään oli edessä.
+ Otimme oppaani kanssa taksin polun päähän.
+ Ohjelmassa oli noin 10 päivän reissu kiipeilijöiden perusleiriin Annapurna
+ Base Campille ja takaisin.
+ Kyseessa ei varsinaisesti ole mikään erämaavaellus vaan "tea-house-trekking"
+ eli suomeksi vaikkapa teetupatallustelua: yöpaikat, ruuat ja muut sellaiset
+ löytyvät matkan varrelta.
+ ABC on yli 4km korkeudessa, joten edetä sinne pitää hissukseen vuoristotaudin
+ varalta.
+ Ohueen ilmaan tottuminen ottaa muutenkin oman aikansa.
 \end_layout
 
 \begin_layout Standard
-Aamu
+Alueella suojellaan myös ihmisiä ja vanhoja vuoristokulttuureita, joten
+ paikoin olo oli kuin jonkinlaisessa jättimäisessä elävässä ulkoilmamuseossa.
+ Jyrkkien rinteiden loputon kipuaminen ja kapuaminen rinkka selässä teki
+ siinä sivussa ajasta ihan pätevän kuntoiluleirin.
+ Matkaa kertyi lopulta reilut 100 km, josta noin puolet ylämäkeä ja puolet
+ alamäkeä.
 \end_layout
 
-\begin_layout Standard
-10h uni teki terää.
- Vähän pihalla, mutta kohtuu ok.
- Amerikkapojat aamupalalla shortseissa ja T-paidassa, mulla talvivarustus.
- 
+\begin_layout Quote
+Päivä 3, 15:30 5h+1,5h Tadapani, 2600m
 \end_layout
 
-\begin_layout Standard
-...
-\end_layout
-
-\begin_layout Standard
-IP, 4h kävelyä Hotel Hilltop Ghorepani, 2750m
-\end_layout
-
-\begin_layout Standard
-Tän päivän kävely menikin jo paljon paremmin.
- Raskasta silti, vaikka vähän kevyempi reitti.
- Voimia kuitenkin jäljellä ja pää suht virkeä vielä.
-\end_layout
-
-\begin_layout Standard
-Päivä 3
-\end_layout
-
-\begin_layout Standard
-15:30 5h+1,5h Tadapani, 2600m
-\end_layout
-
-\begin_layout Standard
+\begin_layout Quote
 Herätys oli aamulla 5:ltä.
  Heräsin tosin jo 4:ltä ja torkuin loput.
  Nukahdin illalla 7-8 aikaan.
@@ -657,108 +592,11 @@ Herätys oli aamulla 5:ltä.
  Ajattelin, että alastulo olisi kevyttä, mutta kyllä sekin ihan työstä käy.
 \end_layout
 
-\begin_layout Standard
-...
+\begin_layout Quote
+Päivä 6, Deurali 3140m
 \end_layout
 
-\begin_layout Standard
-Olen ollut vasta kaksi viikkoa matkalla.
- Vasta kaksi viikkoa! Käsittämätön määrä asioita on ehtinyt tapahtua.
- Ja silti en ole varsinaisesti tehnyt mitään.
- Ei pysty käsittään.
-\end_layout
-
-\begin_layout Standard
-Päivä 4
-\end_layout
-
-\begin_layout Standard
-Ghurjung, lounas
-\end_layout
-
-\begin_layout Standard
-Pysähdyin katsomaan ympärilleni.
- Kaikki on taas jännää ja mielenkiintoista.
-\end_layout
-
-\begin_layout Standard
-...
-\end_layout
-
-\begin_layout Standard
-16.00 Chhomrong, 2010m
-\end_layout
-
-\begin_layout Standard
-Tänään tajusin yhtäkkiä kuinka pihalla mä olen tämän paikan suhteen.
- Eihän minulla ole mitään tietoa mihin olen tullut.
- En tiedä reitistäkään oikein mitään, seuraan vaan opastani.
-\end_layout
-
-\begin_layout Standard
-Päivä 5
-\end_layout
-
-\begin_layout Standard
-Sinuwa, lounas, 2350m
-\end_layout
-
-\begin_layout Standard
-Aika rankkaa kiipeämistä ylös ja alas tänään, mutta aika hyvin sitä jo myös
- jaksaakin kävellä.
- Kuumakin olis.
-\end_layout
-
-\begin_layout Standard
-...
-\end_layout
-
-\begin_layout Standard
-Ei liiku hirveesti ajatuksia päässä.
-\end_layout
-
-\begin_layout Standard
-...
-\end_layout
-
-\begin_layout Standard
-Bamboo Guest House, 2335m
-\end_layout
-
-\begin_layout Standard
-Viimeinen pätkä meni jokseenkin transsissa.
- Pari kertaa havahduin, jos Mann sanoi jotain tai apinoita hyppi puissa.
-\end_layout
-
-\begin_layout Standard
-Päivä 6
-\end_layout
-
-\begin_layout Standard
-Dobhan, taukopaikka, AP, 2600m
-\end_layout
-
-\begin_layout Standard
-Huomenna pitäis olla base campissä! Hyvä fiilis.
- Ja hyvä, että otettiin ekstrapäivä ja edettiin hitaammin.
- Ehtiipähän vähän nauttiakin täällä olosta.
-\end_layout
-
-\begin_layout Standard
-Yöt kylmenevät.
- Viiden jälkeen en saanut oikein enää nukuttua.
- Vaikka enköhän mä ihan tarpeeksi unta saanut.
-\end_layout
-
-\begin_layout Standard
-...
-\end_layout
-
-\begin_layout Standard
-Deurali 3140m
-\end_layout
-
-\begin_layout Standard
+\begin_layout Quote
 Hengaillaan dining roomissa.
  Vakiosetti.
  Minä, Mann, Fotis, Hari plus pari japanilaista tätiä.
@@ -769,95 +607,20 @@ Hengaillaan dining roomissa.
 \end_layout
 
 \begin_layout Standard
-Päivä 7
+Mukana oli paikallinen opas, joka auttoi hoitamaan kaikki tarvittavat säädöt.
+ Hän tunsi paikat ja ihmiset, joten minulle jäi hommaksi lähinnä kävely
+ ja maailman ihmettely.
+ Muita reissaajia tuli tavattua joka päivä.
+ Tungokseksi asti porukkaa ei kuitenkaan ollut, sillä nyt ei jostain syystä
+ kuulemma ollut turistikausi.
+ Se sopi kyllä minulle hyvin.
 \end_layout
 
-\begin_layout Standard
-Machhapuchhure Base Camp, 3700m
+\begin_layout Quote
+Päivä 10, Jhinu Danda, aamu
 \end_layout
 
-\begin_layout Standard
-Lounas tässä vielä ennen viimeistä pätkää kohti ABC:ta.
- Aika huikeet maisemat alkaa olla ympärillä.
- Tai niin varmaan oon sanonut joka päivä tähän asti...
-\end_layout
-
-\begin_layout Standard
-...
-\end_layout
-
-\begin_layout Standard
-Annapurna Base Camp, 4130m
-\end_layout
-
-\begin_layout Standard
-Jee.
- Perillä jossain.
- Huomenna jatketaan taas matkaa kohti jotain.
- Lumessa kävelyä koko päivä.
- Paljon muitakin liikkeellä, joten ei tarvitse olla ensimmäisenä polkua
- tekemässä.
-\end_layout
-
-\begin_layout Standard
-Istumme päivää taas dining hallissa.
- Porukka kerääntynyt ison pöydän ympärille.
- Lisää lämpöä tuodaan koppiin.
- Olen vain ja ihmettelen.
- Välillä mietin pitäisikö miettiä jotain, tehdä jotain.
- Mutta tuntuu siltä että parasta vain olla tekemättä mitään, päästää irti,
- antaa olla.
-\end_layout
-
-\begin_layout Standard
-Päivä 8
-\end_layout
-
-\begin_layout Standard
-16:00
-\end_layout
-
-\begin_layout Standard
-Takaisin Bamboossa.
- Tultiin aika vauhdilla alas ABC:ltä.
- Kellon puolesta olis voinut jatkaa pidemmällekin, mutta jalat halusivat
- pitää hieman taukoa.
-\end_layout
-
-\begin_layout Standard
-...
-\end_layout
-
-\begin_layout Standard
-ABC:stä ei tullut mitään jättifiilistä.
- Olihan se toki hieno paikka vuorten keskellä.
- Jotenkin jätti vähän viileäksi.
-\end_layout
-
-\begin_layout Standard
-Päivä 9
-\end_layout
-
-\begin_layout Standard
-Lounas, Chhomrong
-\end_layout
-
-\begin_layout Standard
-n.
- 2500 porrasta juuri kiivenneenä ihan ok olo.
- Parempi kuin aamulla, kun meinasi jäädä haukkomaan henkeä vain parin askeleen
- jälkeen.
-\end_layout
-
-\begin_layout Standard
-Päivä 10
-\end_layout
-
-\begin_layout Standard
-Jhinu Danda, aamu
-\end_layout
-
-\begin_layout Standard
+\begin_layout Quote
 Kohtuu rankan ylösalaspäivän jälkeen oli kohtuu rento ilta.
  Kuuma lähde ja kylmä olut.
  Alunperin piti tänään olla jo takaisin Pokharassa, mutta taidanpa jäädä
@@ -865,341 +628,153 @@ Kohtuu rankan ylösalaspäivän jälkeen oli kohtuu rento ilta.
 \end_layout
 
 \begin_layout Standard
-...
-\end_layout
-
-\begin_layout Standard
-Landruk, tauko
-\end_layout
-
-\begin_layout Standard
-Pettymys.
- Odotin helppoa reittiä ja tasaista menoa, mutta mehän ollaan taas kiipeämässä
- ties mihin.
- Ei siinä sinänsä mitään ongelmaa.
- Muutakun että ei vastannut odotuksia.
-\end_layout
-
-\begin_layout Standard
-...
-\end_layout
-
-\begin_layout Standard
-Australian Camp, ilta
-\end_layout
-
-\begin_layout Standard
-Perillä, vihdoin.
- Yksi rankimpia päiviä varmasti.
- Eilinen rentoilu teki vähän liian laiskaksi.
- Ei vaan huvittanut.
- Nyt kuitenkin jo taas tyytyväinen että tämä tapahtui.
-\end_layout
-
-\begin_layout Standard
-Päivä 11
-\end_layout
-
-\begin_layout Standard
-Pokarassa taas.
- Dharma Inn.
-\end_layout
-
-\begin_layout Standard
-Suihku, vaatteiden vaihto, pyykin pesu, lounas, sähköposti, blogimerkintä,
- akkujen lataus, kuvat koneelle, kuvia nettiin, seuraava kohde suunnitteluun.
- Muistiin kaikki mitä muistaa ja jaksaa.
- Reflektio.
-\end_layout
-
-\begin_layout Standard
-...
-\end_layout
-
-\begin_layout Standard
-Ilta
-\end_layout
-
-\begin_layout Standard
-Huomaan jäsentäväni ajatuksia blogiani varten jälleen.
- Jos vielä nopeasti netissä ennen hotellia, hieman kelailua ja nukkumaan.
- Oisko suunnitelma? 
+En oikein edes muista mitä odotin retkeltä, mutta huimaa oli.
+ Takaisin hotellilla kirjoitin retkestä lyhyesti blogiin, laitoin muutamia
+ kuvia nettiin, ja aloin pohtia seuraavaa siirtoa.
 \end_layout
 
 \begin_layout Section
-Kathmanduun 
+Kathmandu
 \end_layout
 
 \begin_layout Standard
-Kirjoitettu: Maaliskuu 1st, 2009 by anttih
+Bussimatka Pokharasta Kathmanduun meni nopeasti.
+ Taisi siinä useampi tunti mennä, mutta jossain vaiheessa sitä lakkasi ajattelem
+asta asiaa.
+ Matkan varrella rotkon pohjalla bussinraato ja ympärillä joukko ihmisiä
+ sai mielikuvituksen liikkeelle.
+ Perille tälläkin kerralla päästiin ehjin nahoin.
+ 
 \end_layout
 
 \begin_layout Standard
-Huomenna aamulla olis bussi kohti Kathmandua.
- Perjantaina lento Hong Kongiin.
- Katotaan miten kay.
-\end_layout
-
-\begin_layout Section
-Blogiteknistä hömppää 
-\end_layout
-
-\begin_layout Standard
-Kirjoitettu: Maaliskuu 3rd, 2009 by anttih
+Vaihdoin Pokharan rauhan Kathmandun vilinään, kun olin ollut Nepalissa parikymme
+ntä päivää.
+ Viisumissa oli siis aikaa vielä kymmenen päivää.
+ Hämmentävän hyvin viihdyin edelleen.
+ Vaikka vaelluksesta oli vain pari päivää Annapurnan reissu tuntui jo kaukaiselt
+a menneisyydeltä.
+ Olin päättänyt lähteä Hongkongiin, lento olisi pääkaupungista.
+ 
 \end_layout
 
 \begin_layout Standard
-Tätä blogia kun kerran on todistetusti ainakin kerran lukenut pari vähän
- teknisempääkin henkilöä, niin ehkä voin kertoilla jotain myös pulteista
- ja muttereista.
+\begin_inset VSpace defskip
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
-Konseptisuunnittelu tapahtui joskus viimevuoden puolella UP:n pikkujouluissa
- Tomin kanssa noin viiden minuutin keskustelutuokiossa.
- En siitä paljonkaan oikeastaan muista, mutta ainakin viestien kategorisointia
- silloin tuli pohdittua.
- Tärkeintä lienee kuitenkin päätös blogin perustamisesta yleensä.
+Kaikki ei Nepalissa kuitenkaan ollut aivan kohdallaan, ainakaan suomalaisittain.
+ Maa oli ainakin vielä tuolloin yksi maailman köyhimmistä: työttömyyttä,
+ sähkönjakelua säännösteltiin, orpoja, kerjäläisiä, lapsityövoimaa, poliittisia
+ valtataisteluita...
 \end_layout
 
 \begin_layout Standard
-Ensin tarkoitus oli mennä matalimman aidan ali ja käyttää jotain valmista
- bloggauspalvelua.
- Ennakoin kuitenkin, että se tie johtaisi vain turhautumiseen sen johdosta,
- että valitsemani palvelu ei toimisi täsmälleen kuten haluaisin.
- Päätin siis kuitenkin puuhata oman, tuleepahan ylläpidettyä drupal-osaamistakin
- samalla.
- Ei tämäkään tietenkään toimi täsmälleen kuten haluaisin, mutta ainakaan
- en voi siitä syyttää muita kuin itseäni.
-\end_layout
-
-\begin_layout Standard
-Viivyttelin blogin rakentamista tietenkin viimeiseen asti ja lopulta kyhäsin
- saitin kasaan kiireessä viimeisenä viikonloppuna.
- Eniten taisin käyttää aikaa valmiin teeman etsimiseen.
- Kiinnitin teemassa lähinnä huomiota yleisvaikutelmaan, väreihin, väljyyteen
- ja typografiaan.
- Tiedän hyvin kuinka paljon aikaa ulkoasun viilaamiseen halutunlaiseksi
- voi hukata.
- Valmis teema on tietenkin aina kompromissi, mutta halusin minimoida siihen
- tuhratun ajan.
-\end_layout
-
-\begin_layout Standard
-Lähes kaikki toiminnallisuus on toteutettu valmiiden modulien avulla.
- Taas, ei ihan täydellistä mutta toimii riittävän hyvin, minun mielestäni.
- Tai oikeastaan täältä käsin ei toimi.
- Muistelisin sivuston olleen riittävän nopea kotona, mutta täällä modeemitasoisi
-lla yhteyksillä tämä on ihan tolkuttoman hidas.
- Kuvagalleriaa ei täällä voi käytännössä edes voi käyttää.
- Mutta oletan että kotona siis toimii.
- Jos ei, niin olisin toki kiitollinen jos joku kertoisi mahdollisista ongelmista
-, jotta niille olisi jotain sitten helpompi tehdäkin.
-\end_layout
-
-\begin_layout Standard
-Blogi pyörii Suomessa virtuaalipalvelimellani muutamien muiden drupalsaittien
- kanssa, domainnimien hankkiminen on helppoa ja halpaa kuin makkara.
- Tuunaus täältä käsin on vähän kömpelöä.
- Netti toimii jos toimii, sähköt pätkii, nettikahviloiden koneet vilisee
- viruksia jne.
- Ssh:n kautta saan kyllä tarvittaessa asennettua uusia moduleitakin tai
- päivitettyä vanhoja.
- Css-säätämisen yritän pitää minimissä, varsinkin kun nettikahviloissa harvemmin
- on firebugia käytettävissä.
- Jokainen muutos on arvaus, ja jokaisen arvauksen todentamisen latenssi
- voi olla vaikkapa minuutin luokkaa.
- Eli muutokset minimissä.
-\end_layout
-
-\begin_layout Standard
-En nyt sanoisi olevani varsinaisesti supertyytyväinen kokonaisuuteen, mutta
- koitan vähitelleen naputella sivustoa niiltä osin kuin koen sen pahiten
- tökkivän...
-\end_layout
-
-\begin_layout Section
-Nepalista 
-\end_layout
-
-\begin_layout Standard
-Kirjoitettu: Maaliskuu 3rd, 2009 by anttih
-\end_layout
-
-\begin_layout Standard
-Olen nyt ollut parikymmentä päivää täällä Nepalissa.
- Vaihdoin eilen Pokharan rauhan Kathmandun vilinään.
- Hämmentävän hyvin olen viihtynyt edelleen.
-\end_layout
-
-\begin_layout Standard
-Kaikki ei tässä maassa kuitenkaan ole aivan kohdallaan, ainakaan suomalaisittain.
- Maa on yksi maailman köyhimmistä, puolet porukasta työttömänä, energiakriisin
- takia sähkönjakelu toimii vain silloin tällöin, orpoja, kerjäläisiä, lapsityövo
-imaa, poliittisia valtataisteluita...
-\end_layout
-
-\begin_layout Standard
-Jokin täällä kuitenkin on hyvin.
+Jotkin asiat kuitenkin olivat myös hyvin.
  Bussimatkalla Intiasta Nepalin rajalle juttelin paikallisen kanssa, joka
  sanoi Nepalin olevan "kehittymättömämpi kuin Intia, mutta elintasoltaan
  parempi".
  Tai jotain sinne päin.
- En oikein ymmärtänyt mitä hän sillä tarkoitti, ja olenkin sen koommin miettinyt
- tuon lauseen merkitystä, joka päivä.
- En tosin kovin pitkälle ole pohdinnassani vielä päässyt.
+ En aluksi oikein ymmärtänyt mitä hän sillä tarkoitti, ja jäinkin pitkään
+ miettimään lauseen merkitystä.
+ Keskeistä ajatuksessa taisi olla nimenomaan Nepalin vertaaminen Intiaan,
+ eikä vaikkapa johonkin länsimaahan.
+ Ehkä maasta puuttuivat Intian valtavat kontrastit.
+ Tuloerot eivät ole niin räikeitä, eikä ihmeellisiä palatseja ja monumentteja,
+ joten köyhyyskään ei vaikuta niin ihmeelliseltä.
 \end_layout
 
 \begin_layout Standard
-Keskeistä ajatuksessa kuitenkin lienee nimenomaan Nepalin vertaaminen Intiaan.
- Eikä vaikkapa johonkin länsimaahan.
- Ehkä täältä puuttuvat Intian valtavat kontrastit, täällä ei näy rikkaus,
- ihmeelliset palatsit ja monumentit, joten köyhyyskään ei vaikuta niin ihmeellis
-eltä.
-\end_layout
-
-\begin_layout Standard
-Tai ehkä kyseessä on jonkinlainen supermarketti-ilmiö, jossa unessa kävelevät
- ihmiset saadaan vihdoin näkemään tuote hyllyssä laittamalla niitä 100 vierekkäi
-n.
- Täällä asuu suhteellisen järjellinen määrä ihmisiä, noin 30 miljoonaa verrattun
-a Intian miljardipopulaan.
- Jos täällä tulee päivän aikana kadulla kymmenen kerjäläistä nykimään hihasta,
- Intiassa heitä tulisi 300, mikäli määrän suhde väkilukuun pysyisi samana.
- Kymmenen ihmisen avunpyynnöt oppii olemaan kuulematta ja näkemättä jo muutaman
- päivän harjoittelun ja turtumisen jälkeen, niin karulta kuin se ehkä kuulostaak
-in.
- 300 vaatii jo huomattavasti harjaantuneempaa välinpitämättömyyttä.
-\end_layout
-
-\begin_layout Standard
-Kehittymättömämpi kuin Intia, mutta elintasoltaan parempi.
- Talousihmeeksi tätä maata ei tosiaankaan voi kutsua, epävakaa poliittinen
- tilanne pitää siitä osaltaan huolen.
- Toisaalta täällä ei ole myöskään väestöräjähdyksen tuomaa hyperkilpailua
- ihmisten kesken, vaan elämä voidaan ottaa vähän rauhallisemmin.
+Talousihmeeksi Nepalia ei voinut kutsua, epävakaa poliittinen tilanne piti
+ siitä osaltaan huolen.
+ Toisaalta maassa ei näkynyt myöskään intiankaltaista väestöräjähdyksen
+ tuomaa hyperkilpailua ihmisten kesken, vaan elämä saatettiin ottaa vähän
+ rauhallisemmin.
  Elintasoa sekin.
 \end_layout
 
-\begin_layout Section
-Kuvia Kathmandusta 
+\begin_layout Standard
+\begin_inset VSpace defskip
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
-Kirjoitettu: Maaliskuu 4th, 2009 by anttih
+Kathmandu ja reppumatkaajien suosima Thamelin kaupunginosa oli taas aivan
+ toinen maailma kuin Pokharan Lakeside.
+ Thamel on jonkinlainen leppoisampi versio Delhin Karol Baghista tai Paharganjis
+ta.
+ Kadulla sai jopa kävellä suhteellisen rauhassa, kerjääminen ja kaupustelu
+ ei ollut yhtä agressiivista.
+ Tai ehkä minun tuputtajasuodattimeni olivat vain kehittyneet uudelle tasolle.
+ 
 \end_layout
 
 \begin_layout Standard
-Kathmandu ja Thamel on taas ihan toinen maailma kuin Pokharan Lakeside.
- Tämä on jonkinlainen leppoisampi versio Delhin Karol Baghista tai Paharganjista.
- Täällä saa kävellä jopa ihan rauhassa kadulla, kerjääminen ja kaupustelu
- ei ole aivan yhtä agressiivista.
- Tai voi toki olla että minun tuputtajasuodattimeni ovat vaan kehittyneet
- uudelle tasolle.
- Olen kokeillut kaupunkiin tutustumista vaihteeksi tutkametodilla.
- En ole hankkinut karttaa, vaan kuljen ympäriinsä fiilispohjalta.
- Kyllä sitä aina iltaan mennessä kotiin löytää.
- Tosin omien kulmien tunnistaminen illalla pilkkopimeässä tuo omat haasteensa
- mukaan, ehkä jopa hieman jännitystä.
-\end_layout
-
-\begin_layout Standard
-En myöskään ole hankkinut opaskirjaa, päällisin puolin vilkaissut Wikitravelia
- kylläkin.
- Tutustun lähinnä niihin paikkoihin, jotka sattuvat tulevan vastaan.
- En ole juuri tutustunut historiaan, lähinnä katselen vain ja ihmettelen
- ja yritän sen pohjalta tehdä jotain päätelmiä.
- Ehkä tätä tapaa voisi kutsua vaikkapa avaruusoliometodiksi.
- Eri asia tietty onko tässä varsinaisesti mitään järkeä.
-\end_layout
-
-\begin_layout Standard
-Eilen kävelin hotellilta itään, tänään kartoittelin etelää, huomenna suuntana
- länsi.
+Kokeilin kaupunkiin tutustumista vaihteeksi tutkametodilla.
+ En hankkinut karttaa, tai opaskirjaa vaan kuljin ympäriinsä fiilispohjalta.
+ Tutustin niihin paikkoihin, jotka sattuivat tulemaan vastaan.
+ Katselin ympärilleni ja ihmettelin.
+ Yhtenä päivänä kävelin hotellilta itään, toisena kartoittelin etelää, kolmanten
+a suuntana oli länsi.
+ Kyllä sitä aina iltaan mennessä kotiin löysi.
+ Tosin omien kulmien tunnistaminen illalla sähkönjakelun päätyttyä pilkkopimeäss
+ä toi omat haasteensa mukaan, ehkä hieman jännitystäkin.
  
 \end_layout
 
 \begin_layout Chapter
+Kiina
+\end_layout
+
+\begin_layout Section
 Hongkong
 \end_layout
 
-\begin_layout Section
-Hongkongiin 
+\begin_layout Standard
+Olin ajattelut Hongkongia ensin vain läpikulkupaikkana, mutta se oli jostain
+ syystä alkanut kiinnostaa enemmänkin.
+ Kolme yötä olin varannut vain aluksi kuitenkin.
+ Pääsin vihdoin kiertelemään kaupunkia.
+ Hongkong vaikutti aivan mukavalta paikalta.
+ Paljon ihmeteltävää.
+ Kaikki toimi ja elo oli helppoa.
+ Miljoonakaupunki tuntui jostain syystä jopa aika rauhalliselta.
 \end_layout
 
 \begin_layout Standard
-Kirjoitettu: Maaliskuu 5th, 2009 by anttih
-\end_layout
-
-\begin_layout Standard
-Huomenna Hong Kongiin, perilla pitais olla lauantaiaamuna.
- Ensin ajattelin sita vain lapikulkupaikkana, mutta se on jostain syysta
- alkanut kiinnostaa enemmankin.
- Kolme yota nyt aluksi kuitenkin.
-\end_layout
-
-\begin_layout Section
-Kuvia Hongkongista 
-\end_layout
-
-\begin_layout Standard
-Kirjoitettu: Maaliskuu 9th, 2009 by anttih
-\end_layout
-
-\begin_layout Standard
-Paasin tanaan vihdoin vahan kiertelemaan kaupunkia.
- Tamahan vaikuttaisi ihan mukavalta paikalta.
- Paljon ihmeteltavaa.
- Kaikki toimii ja elo on helppoa, ainakin tahan asti.
- Taalla on tuntuisi itse asiassa jostain syysta olevan aika rauhallista.
+Hostellini sattui sijaitsemaan ison elektroniikkapuljun vieressä.
+ Monta päivää taistelin vastaan, mutta lopulta retkahdin vähän soppaamaan.
+ Ostin uuden taskukameran, vanha oli alkanut kiukuttelemaan.
  
 \end_layout
 
-\begin_layout Section
-Kuvia Hongkongista 2.0 
-\end_layout
-
 \begin_layout Standard
-Kirjoitettu: Maaliskuu 10th, 2009 by anttih
-\end_layout
-
-\begin_layout Standard
-Hostellini sattuu sijaitsemaan ison elektroniikkapuljun vieressä.
- Monta päivää taistelin vastaan, mutta tänään retkahdin vähän soppaamaan.
- Sen seurauksena kuvat täällä siirtyvät laajakuva-aikakauteen.
- Alkuperäisten kuvien koko kasvaa samalla, mutta se haitannee eniten varmaankin
- minua itseäni, jos joudun jatkossa taas jonnekin pätkivien lennätinlinjojen
- taakse.
- Täälläkin kun kestää ihan reilun hetkisen siirtää yksikin kuvatus nettiin.
-\end_layout
-
-\begin_layout Section
-Pari pointtia Hongkongista 
-\end_layout
-
-\begin_layout Standard
-Kirjoitettu: Maaliskuu 13th, 2009 by anttih
-\end_layout
-
-\begin_layout Standard
-Vauhti ja kiire alkaa vähitellen tarttua, joten lienee parasta jatkaa pian
- matkaa.
- Ehkä täällä hieman ahdastakin on.
- Hostellihuoneeni on kerrostalon 14.
- kerroksessa ja on pienin ja kallein koppi, jossa olen tähän mennessä tällä
- matkalla yöni viettänyt.
- Ja sekin on oikeastaan kolmen hengen huone...
+Vauhti ja kiire alkoi vähitellen tarttua, joten aloin miettiä jatkan matkamista
+ piakkoin.
+ Ehkä siellä ahdastakin hieman oli.
+ Hostellihuoneeni oli kerrostalon 14.
+ kerroksessa ja oli pienin ja kallein koppi, jossa olin siihen mennessä
+ yöni viettänyt.
+ Ja sekin oli oikeastaan kolmen hengen huone...
  Koko kaupunki on pinta-alaltaan semmoset 1000 neliökilometriä, eli about
  30 km kanttiinsa.
  Tästäkin vain neljännes on varsinaisesti asuttua, eli 250 km2 alueella
  elelee 7 miljoonaa ihmistä.
+\begin_inset VSpace defskip
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
 HK on ilmeisestikin jonkinlainen talousmaailman keskus.
  Katukuvassa on pankkeja siinä missä Suomessa partureita.
- Ei tämä nyt kuitenkaan varsinaisesti mitenkään läpeensä sikarikas paikka
- vaikuttaisi olevan.
+ Ei paikka kuitenkaan mitenkään läpeensä sikarikkaalta vaikuttanut.
  Toki keskustan uusien pilvenpiirtäjien kauppakeskuksissa trendikkäitten
  cityihmisten seassa voi vanhoissa lenkkareissa, reisitaskuhousuissa ja
  kuluneessa hupparissa helposti tulla hieman hippi olo.
@@ -1212,104 +787,82 @@ HK on ilmeisestikin jonkinlainen talousmaailman keskus.
  jonka kanssa kävin syömässä lounaalla setin kohtuukummallisia erilaisia
  ruokalajeja.
  Hän itse sanoi työskentelevänsä arkisin aamukahdeksasta iltakahdeksaan,
- minkä jälkeisen luppoajan hän voikin sitten käyttää oman firmansa pyörittämisee
-n...
- 
-\end_layout
+ minkä jälkeisen luppoajan hän saattoi sitten käyttää oman firmansa pyörittämise
+en.
+\begin_inset VSpace defskip
+\end_inset
 
-\begin_layout Section
-Jumissa Hongkongissa 
-\end_layout
 
-\begin_layout Standard
-Kirjoitettu: Maaliskuu 16th, 2009 by anttih
 \end_layout
 
 \begin_layout Standard
-Sain tänään viisumin Kiinaa varten, mutta pitää jäädä vielä viikoksi odottamaan
- toista viisumia Yhdysvaltoihin, koska sellainenkin kuulemma tarvitaan jos
- aikoo saapua maahan laivalla.
- Kiinan kiertue tulee näillä näkymin jäämään vähän tyngäksi, mutta enköhän
- kerkeä kuitenkin käymään kurkistamassa.
-\end_layout
-
-\begin_layout Section
-Voitasko jatkaa jo matkaa 
+Sain pian viisumin Kiinaa varten, mutta minun piti jäädä vielä viikoksi
+ odottamaan toista viisumia Yhdysvaltoihin.
+ Sellainenkin kuulemma tarvittiin jos aikoi saapua maahan laivalla.
+ Kiinan kiertue alkoi näyttää jäävän tyngäksi, mutta olin jo kuitenkin päättänyt
+ käydä sielläkin kurkistamassa.
 \end_layout
 
 \begin_layout Standard
-Kirjoitettu: Maaliskuu 21st, 2009 by anttih
+Viimein alkoi olla viralliset säädöt säädetty.
+ Paikallinen postijärjestelmä nielaisi vielä passini, mutta sain sen lopulta
+ noudettua paikallisesta toimistosta.
+ Tiistaina oli sitten tarkoitus lennähtää visiitille Pekingiin ja junailla
+ sieltä itseni Shanghain kautta takaisin Hongkongiin, jossa odotti 15 päivän
+ reissu rahtilaivalla kohti Kaliforniaa ja Long Beachia.
 \end_layout
 
 \begin_layout Standard
-Alkaa vähitellen olla säädöt säädetty.
- Paikallinen postijärjestelmä nielaisi vielä passini, mutta pitäisi tiistaihin
- mennessä saada haettua se jostain...
- Tiistaina sitten tarkoitus lennähtää visiitille Pekingiin ja junailla sieltä
- itseni Shanghain kautta takaisin tänne Hongkongiin.
- Täällä odottaa 6.4.
- alkava 15 päivän reissu rahtilaivalla kohti Kaliforniaa ja Long Beachia.
-\end_layout
-
-\begin_layout Section
-Hämmentynyt Hongkongissa 
-\end_layout
-
-\begin_layout Standard
-Kirjoitettu: Maaliskuu 22nd, 2009 by anttih
-\end_layout
-
-\begin_layout Standard
-Tulin tänne Hongkongiin ajatuksena hankkia nopeasti viisumi Kiinaan ja jatkaa
+Tulin Hongkongiin ajatuksena hankkia nopeasti viisumi Kiinaan ja jatkaa
  matkaa mahdollisimman saman tein.
  Jotenkin päädyin säästämään kuitenkin pari markkaa viisumikuluissa ja jouduin
  siten odottamaan ylimääräisen viikon hakemuksen käsittelyä.
 \end_layout
 
 \begin_layout Standard
-No, kun kerran täällä ollaan niin kai sitä voisi vähän katsella ympärillensäkin
- sitten.
-\end_layout
-
-\begin_layout Standard
-Joukkoliikenne toimii hyvin ja täällä on kätevä matkakorttijärjestelmä.
+Kun kerran visiitti näytti venyvän, niin päätin sitten lähteä katselemaan
+ hieman ympärilleni.
+ Joukkoliikenne toimi hyvin ja matkakorttijärjestelmä oli kätevä.
  Vähän kuin Helsingissä sillä erotuksella, että kortilla voi monesti maksaa
  myös kauppakorinsa, kahvinsa, hampurilaisensa tai parkkimaksunsa.
- Ja täällä sitä korttia osaa käyttää turistikin.
+ Ja tätä korttia osasi käyttää turistikin.
 \end_layout
 
 \begin_layout Standard
-Jos johonkin haluaa vain päästä johonkin, metro on usein nopein ja helpoin
- vaihtoehto.
- Jos taas haluaa myös nähdä jotain, päästä halvemmalla tai esimerkiksi istua,
- kannattaa hypätä mukavaan kaksikerrosbussiin.
- Niillä myös pääsee todennäköisemmin sinne minne haluaa kuin minibusseilla,
- jotka ovat hyvä vaihtoehto mikäli haluaa eksyä tai kaipaa halpaa huvipuistoajel
+Jos halusin vain päästä johonkin, metro oli usein nopein ja helpoin vaihtoehto.
+ Jos taas halusin myös nähdä jotain, päästä halvemmalla tai esimerkiksi
+ istua, hyppäsin mukavaan kaksikerrosbussiin.
+ Niillä myös pääsin todennäköisemmin sinne halusin kuin minibusseilla, jotka
+ olivat hyvä vaihtoehto, mikäli halusin eksyä tai kaipasin halpaa huvipuistoajel
 ua.
- Eksyminen täällä on mukavaa, sillä vaikka ei tietäisi mihin on päätynyt,
- pääsee kaikkialta kuitenkin helposti takaisin.
+ Eksyminen Hongkongissa oli miellyttävää, sillä vaikka en aina tiennyt mihin
+ olin päätynyt, pääsin kaikkialta kuitenkin helposti takaisin.
 \end_layout
 
 \begin_layout Standard
-Joka päivä, ainakin tähän asti, on tullut vastaan jotain uutta ja ihmeellistä.
+Joka päivä tuli vastaan jotain uutta ja ihmeellistä.
  Kaikki on lähellä.
- Paikka on sen verran pieni, että tämän ehtii kartoittamaan parissa viikossa.
- Toisaalta täällä on niin monenlaisia paikkoja, monenlaisia ihmisiä ja tapahtuu
- monenlaisia asioita, että ihmeteltävää riittäisi varmasti hyvin pitkäksi
- aikaa.
+ Paikka on sen verran pieni, että sen ehtii kartoittamaan parissa viikossa.
+ Toisaalta paikassa on niin monenlaisia paikkoja, ihmisiä ja tapahtui monenlaisi
+a asioita, että ihmeteltävää riittää pidemmäksikin aikaa.
  Mikäli nyt ihmettelemisestä on kiinnostunut.
+\begin_inset VSpace defskip
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
-Tätä sanotaan paikaksi jossa itä kohtaa lännen.
+Hongkongia sanotaan paikaksi jossa itä kohtaa lännen.
  Monessakin mielessä kohtaamista voisi paremmin kuvata sanalla törmäys.
  Sen voi jokainen myös kokea kuvainnollisesti ja kirjaimellisesti kävellessään
  kadulla.
  Luulin jo tottuneeni talsimaan kadun vasenta laitaa Intiassa ja Nepalissa,
- mutta täällä vaan kävelen jatkuvasti päin ihmisiä milloin missäkin.
- Voi toki olla, että yksinäisenä matkaajana haluan tiedostamattani hakea
+ mutta kävelin silti jatkuvasti päin ihmisiä milloin missäkin.
+ Voi toki olla, että yksinäisenä matkaajana halusin tiedostamattani hakea
  lähempää kontaktia vastaantulijoihin, mutta ehkä on olemassa toinenkin
  selitys.
+ 
 \end_layout
 
 \begin_layout Standard
@@ -1322,6 +875,10 @@ Täällä liikenne on vasemmanpuoleinen.
  yli 17 miljoonaa.
  Eiköhän se Helsingissäkin aiheuttaisi hieman hämmennystä, jos siellä yhtäkkiä
  päästettäisiin satatuhatta brittituristia kadulla vapaaksi.
+\begin_inset VSpace defskip
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
@@ -1350,7 +907,19 @@ n rahtilaivan Hongkongista Kaliforniaan.
 Sain siinä samalla tutustua paikallisiin terveydenhuoltopalveluihin, kun
  jouduin hakemaan yhden rokotuksen lisää ja todistuksen siitä että näen
  ja kuulen ja pystyn kävelemään.
- Muutamien mutkien jälkeen päädyin paikalliseen lääkärikeskukseen.
+ 
+\end_layout
+
+\begin_layout Standard
+Ensimmäinen lääkäri ei puhunut englantia.
+ Hän vaikutti oikein sympaattiselta, tutki pulssia, kuunteli keuhkoja, koitti
+ lämpöä, mutta oli hämillään, kun ei löytänyt mitään vikaa.
+ Osasin muutaman sanan kiinaa, mutta en millään onnistunut selittämään,
+ että sehän tässä koko homman pointti olikin.
+\end_layout
+
+\begin_layout Standard
+Muutamien mutkien jälkeen päädyin paikalliseen lääkärikeskukseen.
  Oikeastaan se oli enemmänkin lääkärikokoelma, kerrostalo täynnä pieniä
  yksityisiä vastaanottoja.
  Valitse siinä nyt sitten sadan kiinaksi kirjoitetun nimen joukosta.
@@ -1362,6 +931,10 @@ Sain siinä samalla tutustua paikallisiin terveydenhuoltopalveluihin, kun
  Yritettyäni ensin päästä muiden muassa plastiikkakirurgille, magneettikuvauksii
 n ja gynekologille löysin lopulta tavallisen peruspertsalääkärin, joka viimein
  päästi minut pulasta.
+\begin_inset VSpace defskip
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
@@ -1386,56 +959,32 @@ Jollekulle voisi tietenkin herätä kysymys, että eikö olisi ollut helpompi
  ottaa asioista selvää ja hoitaa viisumit ja muut asiat etukäteen ennen
  lähtöä.
  Nojuu olisi varmaan ollut.
- Toisaalta yhtenä matkan tavoitteenani on ollut oppia hoitamaan asioita,
- mitä tahansa, myös ulkomailla.
- Samoin olen halunnut löytää jonkinlaisen tasapainon suunnitelmallisuuden
+ Toisaalta yhtenä matkan tavoitteenani oli oppia hoitamaan asioita, mitä
+ tahansa, myös ulkomailla.
+ Samoin olin halunnut löytää jonkinlaisen tasapainon suunnitelmallisuuden
  ja suunnittelemattomuuden välillä, oppia tekemään nopeasti uusia suunnitelmia
  ja yhtälailla oppia luopumaan niistä tarvittaessa.
- Siinä mielessä matka on kyllä tähän mennessä onnistunut varsin hyvin.
- 
-\end_layout
-
-\begin_layout Chapter
-Kiina
+ Siinä mielessä matka oli tähän mennessä onnistunut varsin hyvin.
 \end_layout
 
 \begin_layout Section
-Peitsing 
-\end_layout
-
-\begin_layout Standard
-Kirjoitettu: Maaliskuu 25th, 2009 by anttih
+Peking
 \end_layout
 
 \begin_layout Standard
 Vihdoinkin liikkellä taas.
- Ensivaikutelma Pekingistä on hieman pohjolamainen, kotoisan itäblokahtava
+ Ensivaikutelma Pekingistä oli hieman pohjolamainen, kotoisan itäblokahtava
  ja yllättävän sympaattinen.
  Jotain ihan muuta kuin odotin.
- Mutta missä kaikki ihmiset ovat? 
+ Mutta missä kaikki ihmiset olivat?
 \end_layout
 
 \begin_layout Standard
-En oikein tiedä miten tämän paikan nimi pitäisi kirjoittaa.
- Ennen vanhaan tämä oli Peking, nykyään usein Beijing.
- Molemmat lienevät jotain käännöksen käännöksiä, sillä suomalaisittainhan
- tämän paikan nimi pitäisi kirjoittaa tietenkin Peitsing.
-\end_layout
-
-\begin_layout Section
-Kuvia Pekingistä
-\end_layout
-
-\begin_layout Standard
-Kirjoitettu: Maaliskuu 30th, 2009 by anttih
-\end_layout
-
-\begin_layout Standard
-Vähitellen alkaa saada edes jonkinlaista tuntumaa tähän paikkaan.
- Hongkongin ärsyketiivisteen jälkeen täällä Pekingissä alkaa pohtia miksi
- täällä on niin paljon tyhjää tilaa ja kaikki paikat niin kaukana toisistaan.
- Sen lisäksi, että että se saa tuntemaan itsensä tosi pieneksi se tekee
- myös vaikutelman kuin aika kulkisi todella hitaasti.
+Edes jonkinlaisen tuntuman saaminen paikkaan otti aikansa.
+ Hongkongin ärsyketiivisteen jälkeen Pekingissä alkoi pohtia miksi tyhjää
+ tilaa on niin paljon ja kaikki paikat niin kaukana toisistaan.
+ Sen lisäksi, että se saa tuntemaan itsensä tosi pieneksi, se tekee myös
+ vaikutelman kuin aika kulkisi todella hitaasti.
  
 \end_layout
 
@@ -1444,31 +993,19 @@ Shanghai
 \end_layout
 
 \begin_layout Standard
-Kirjoitettu: Huhtikuu 1st, 2009 by anttih
-\end_layout
-
-\begin_layout Standard
-Singahdin tänne Shangaihin juuri.
- En kokenut Pekingiä mitenkään erityisen inspiroivaksi ympäristöksi, joten
- kontekstin vaihto oli ihan paikallaan.
- Tämä on myös tuhat kilometriä etelämpänä, joten ulkonakin taas tarkenee.
- Sunnuntaina sitten takaisin Hongkongiin botskia odottelemaan.
-\end_layout
-
-\begin_layout Section
-Kuvia Shanghaista
-\end_layout
-
-\begin_layout Standard
-Kirjoitettu: Huhtikuu 4th, 2009 by anttih
+Singahdin pian Shangaihin.
+ En syystä tai toisesta kokenut Pekingiä erityisen inspiroivaksi ympäristöksi,
+ joten kontekstin vaihto oli paikallaan.
+ Shanghai on myös tuhat kilometriä etelämpänä, joten ulkonakin taas tarkeni.
+ 
 \end_layout
 
 \begin_layout Standard
 Shanghai on vähän turhan iso paikka parissä päivässä kierrettäväksi, etenkin
  jos on valmiiksi pienessä saitsariähkyssä.
- Tämä vaikuttaisi aivan erilaiselta kaupungilta kuin Peking.
- Keskustassa on paljon hongkongimaisia piirteitä, mutta myös paljon muutakin.
- Paikka kasvaa kohtuu vauhdilla ja näyttää monin paikoin rakennustyömaalta.
+ Kaupunki vaikutti aivan erilaiselta kuin Peking.
+ Keskustassa oli paljon hongkongmaisia piirteitä, mutta myös paljon muutakin.
+ Paikka kasvoi vauhdilla ja näytti monin paikoin rakennustyömaalta.
  Poikkesimme myös päiväretkellä paikallisessa venetsiantapaisessa.
  En edes yrittänyt kartoittaa koko kaupunkia ja kokonaiskäsitys paikasta
  jäikin vähän hämäräksi.
@@ -1478,109 +1015,91 @@ Shanghai on vähän turhan iso paikka parissä päivässä kierrettäväksi, ete
 \end_layout
 
 \begin_layout Chapter
-Merelle 
+Merelle
 \end_layout
 
 \begin_layout Standard
-Kirjoitettu: Huhtikuu 5th, 2009 by anttih
-\end_layout
-
-\begin_layout Standard
-Takaisin Hongkongissa.
- Lensin Shenzheniin, josta ajelin tänne bussilla.
+Shanghaista lensin Shenzheniin, josta ajelin Hongkongiin bussilla.
  Tuli säästettyä pari markkaa ja nähtyä vähän maisemia samalla.
- Buukkasin hostellin yhdestä ehkä keskustan hämyisimmistä kortteleista.
- Huone (koppi) on kuitenkin ihan ok.
- Paatti tulee lastattavaksi näillä näkymin ma-ti-yönä.
- Ennen Long Beachia se poikkeaa vain Kiinan rannikolla Yantianissa, minkä
- jälkeen onkin sitten vain ulappaa sellaiset 10 000 km.
+ Buukkasin hostellin yhdestä keskustan ehkä hämyisimmistä kortteleista,
+ Chungking Mansionista.
+ Huone, tai koppi, oli kuitenkin ihan kohtuullinen.
  
 \end_layout
 
 \begin_layout Standard
-Kalifornia matkakohteena tuli vähän puun takaa ja olen vasta tajunnut kuinka
- vähän itse asiassa tiedän siitä paikasta, vaikka telkkaria tulikin pienempänä
- katseltua aika paljon.
- Siellähän vaikuttaisi olevan vaikka mitä mielenkiintoista.
- Tällä hetkellä lähinnä mietityttää miten onnistun pysymään budjetissa ja
- miten selviän paikassa, jossa julkinen liikenne ja käveleminen paikasta
- toiseen eivät ole niitä parhaiten tuettuja harrastuksia.
+Paatti oli alustavien tietojen mukaan tulossa lastattavaksi parin päivän
+ päästä.
+ Ennen Long Beachia se poikkeaisi vain Kiinan rannikolla Yantianissa, minkä
+ jälkeen olisikin sitten vain ulappaa sellaiset 10 000 km
+\end_layout
+
+\begin_layout Standard
+Kalifornia matkakohteena tuli vähän puun takaa.
+ Aloin vasta tajuamaan kuinka vähän itse asiassa tiedän siitä paikasta,
+ vaikka telkkaria tulikin pienempänä katseltua aika paljon.
+ Siellähän vaikutti olevan vaikka mitä mielenkiintoista.
+ Lähinnä nyt mietitytti miten onnistun pysymään budjetissa ja miten selviän
+ paikassa, jossa julkinen liikenne ja käveleminen paikasta toiseen eivät
+ ole niitä parhaiten tuettuja harrastuksia.
 \end_layout
 
 \begin_layout Chapter
 Kalifornia
 \end_layout
 
-\begin_layout Section
-Palautus maanpinnalle 
-\end_layout
-
-\begin_layout Standard
-Kirjoitettu: Huhtikuu 21st, 2009 by anttih
-\end_layout
-
-\begin_layout Standard
-Plop.
- Lampi ylitetty, laiva parkissa, rajasetien kuumotuksista selvitty, taksilla
+\begin_layout Quote
+Lampi ylitetty, laiva parkissa, rajasetien kuumotuksista selvitty, taksilla
  hotellille.
  Hiukan pihalla kaikesta vielä.
  Mitäs täällä maanpäällä nyt taas pitikään tehdä.
  Ainakin etsiä huomiseksi ihmishintainen yöpaikka ja vuokrata auto jostain.
-\end_layout
-
-\begin_layout Section
-Highway one 
+ - 
 \end_layout
 
 \begin_layout Standard
-Kirjoitettu: Huhtikuu 24th, 2009 by anttih
-\end_layout
-
-\begin_layout Standard
-Pari päivää harhailin Losissa, tänään päätin lähteä ajamaan rantatietä pitkin
+Pari päivää harhailin Losissa, kunnes päätin lähteä ajamaan rantatietä pitkin
  kohti San Fransiscoa.
- Suunnitelmat vaihtelee taas päivittäin, mutta Seattleen pitäisi päästä
- 4.5.
- mennessä.
- Suurin osa ajasta taitaapi mennä täällä Kalifornian puolella.
+ Suunnitelmat vaihtelivat taas päivittäin, mutta Seattleen piti päästä kahdessa
+ viikossa.
+ Suurimman osan ajasta ajattelin käyttää Kalifornian puolella.
  Ehkä.
- Välissä on vielä joku Oregon-niminen valtio, josta en tiedä oikeastaan
+ Välissä oli vielä joku Oregon-niminen valtio, josta en tiennyt oikeastaan
  mitään.
- No ehkä saan anteeksi puutteeni maantiedossa, kun autonvuokraajatätikin
- kysyi minulta "Finland? Is that a country or what?".
-\end_layout
-
-\begin_layout Section
-Pitkä matka jonnekin 
+ No ehkä saan anteeksi puutteeni maantiedossa, kun autonvuokraamon tätikin
+ kysyi minulta: "Finland? Is that a country or what?".
 \end_layout
 
 \begin_layout Standard
-Kirjoitettu: Huhtikuu 30th, 2009 by anttih
-\end_layout
-
-\begin_layout Standard
-Vielä pari viikkoa sitten luulin olevani kiinnostunut isoista kaupungeista
+Vielä pari viikkoa aiemmin luulin olevani kiinnostunut isoista kaupungeista
  ja halusin päästä tutustumaan Los Angelesiin ja San Fransiscoon useammankin
  päivän ajan.
- En nyt muista mitkä minun odotukset ja mielikuvat olivat, mutta joka tapauksess
-a LA oli hieman shokki minulle.
- En ole aiemmin käynyt Amerikan mantereella.
+ En muista mitkä minun odotukseni ja mielikuvani olivat, mutta joka tapauksessa
+ LA oli hieman shokki minulle.
+ En ollut aiemmin käynyt Amerikan mantereella.
 \end_layout
 
 \begin_layout Standard
 Vaikka Intiasta ja Yhdysvalloista muuten on hankala puhua samassa lauseessa,
  oli kokemus LA:sta ensimmäisenä päivänä mereltä palattua samantyyppinen
  kuin aikoinaan saavuin ensimmäistä kertaa Delhiin.
- Lähinnä hämmästelen kaikkea mitä näen.
- En oikein tiedä voinko uskoa silmiäni, olo on jotenkin epätodellinen.
- Onko tämä paikka tosiaankin oikeasti tällainen kuin tämä on? Intiassa en
- voinut uskoa että jokin paikka oikeasti voi olla - no sellainen kuin se
- Intia nyt on.
- Täällä taas luulin joutuneeni televisioon.
+ Lähinnä hämmästelin kaikkea mitä näin.
+ En oikein tiennyt voinko uskoa silmiäni, olo oli jotenkin epätodellinen.
+ Oliko tämä paikka tosiaankin oikeasti tällainen kuin tämä ooli? Intiassa
+ en voinut uskoa, että jokin paikka oikeasti voi olla - no sellainen kuin
+ se Intia nyt on.
+ Nyt luulin joutuneeni televisioon.
 \end_layout
 
 \begin_layout Standard
-En ole aivan varma mitä mieltä tästä maasta ja maan asukkaista kuuluu nykyään
+\begin_inset VSpace defskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+En ole aivan varma mitä mieltä maasta ja maan asukkaista kuuluu nykyään
  olla.
  Kriittisyys on ollut minulle luontevaa, sillä minulla on jostain syystä
  ollut hieman taipumus kiinnittää asioissa ensimmäiseksi huomiota siihen
@@ -1598,8 +1117,8 @@ Hyvissä ajoin ennen tätä koko matkaa olin esimerkiksi luonut mielessäni
  kotiin paluupostissa.
  Eli koska selvisin ensimmäisestä päivästä, niin kaikki mitä matkalla sen
  jälkeen on tapahtunut on tavallaan ollut pelkkää plussaa.
- Näin jälkeenpäin ajatellen olisi osan murehtimisajasta voinut ehkä käyttää
- myös matkan suunnitteluun siltä varalta, että kaikki menisikin ihan hyvin.
+ Jälkeenpäin ajatellen olisi osan murehtimisajasta voinut ehkä käyttää myös
+ matkan suunnitteluun siltä varalta, että kaikki menisikin ihan hyvin.
 \end_layout
 
 \begin_layout Standard
@@ -1615,7 +1134,6 @@ Sama juttu tämän paikan kanssa.
  Joutuisin arvioimaan uudelleen ison kasan aikojen saatossa hioutuneita
  valmiita mielipiteitäni.
  Hirveä vaiva.
- 
 \end_layout
 
 \begin_layout Standard
@@ -1630,93 +1148,97 @@ Usko joutui heti koetukselle toisena yönä hostellissa Hollywoodissa.
 \end_layout
 
 \begin_layout Standard
-Vähitellen olen opetellut yhä enemmän paikallisille tavoille ja hymyilemään
+\begin_inset VSpace defskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Vähitellen opettellin yhä enemmän paikallisille tavoille ja hymyilemään
  ja ottamaan rennosti kuten Kaliforniassa kuuluukin.
- Olen oppinut muuttumaan autoksi ulos lähtiessäni ja olen oppinut syömään
- hampurilaisia.
- Olen oppinut kääntymään oikealle punaisissa valoissa ja vastaamaan aina
- ”pieni”, kun ravintolassa kysytään haluamaani annoskokoa.
- Olen myös oppinut kuuntelemaan kantria maantiellä sekä ääntämään suomenkielisiä
+ Opin muuttumaan autoksi ulos lähtiessäni ja opin syömään hampurilaisia.
+ Opin ajamaan punaisia päin oikealle kääntyessä ja vastaamaan aina ”pieni”,
+ kun ravintolassa kysyttiin haluamaani annoskokoa.
+ Opin myös kuuntelemaan kantria maantiellä sekä ääntämään suomenkielisiä
  kappaleiden nimiä englanniksi autostereoiden puheentunnistimelle.
 \end_layout
 
 \begin_layout Standard
-Nyt ensimmäisen viikon jälkeen silmät alkavat vähitellen tottua tähän ympäristöö
-n ja alan oikeasti nähdä mitä ympärilläni tapahtuu.
+Ensimmäisen viikon jälkeen silmät alkoivat vähitellen tottua uuteen ympäristöön
+ ja aloin oikeasti nähdä mitä ympärilläni tapahtuu.
  Lähes kolmenkymmenen vuoden altistus television ja elokuvien virtuaaliamerikall
-e on täyttänyt mieleni kaikenlaisilla ihmeellisillä kuvitelmilla ja ennakkoluulo
-illa, jotka sekoittuvat jatkuvasti yhteen todellisten havaintojeni kanssa
+e oli täyttänyt mieleni kaikenlaisilla ihmeellisillä kuvitelmilla ja ennakkoluul
+oilla, jotka sekoittuvat jatkuvasti yhteen todellisten havaintojeni kanssa
  luoden hieman unenomaisen kokemuksen.
- 
 \end_layout
 
 \begin_layout Standard
-Tälle mantereelle astuessani en ollut järin innoissani tulevasta parista
- viikosta.
+Amerikan mantereelle astuessani en aluksi ollut järin innoissani tulevasta
+ parista viikosta.
  Olin jo hieman väsynyt ja melkein valmis palaaman kotiin.
- Tästä on kuitenkin kuin vahingossa tulossa hyvää vauhtia koko matkan paras
- pätkä.
- Vasta täällä itse asiassa toteutui lopulta alkumatkan ajatus matkustaa
- mahdollisimman vähillä suunnitelmilla.
+ Tämä kehittyi kuitenkin nopeasti monella tavalla matkan parhaaksi pätkäksi.
+ Vasta nyt itse asiassa toteutui lopulta alkumatkan ajatus matkustaa mahdollisim
+man vähillä suunnitelmilla.
  Aasian puolella joutui koko ajan olemaan päivän pari etukenossa miettimässä
  missä on ja mihin menee, varamaan yöpaikkoja ja matkalippuja.
- Täällä olen joka päivä voinut huoletta mennä mihin milloinkin olen halunnut
- ja etsiä yöpaikan sieltä minne satun illalla päätymään.
- Aamulla voin sitten vain pakata reppuni ja jatkaa taas matkaa – jonnekin.
+ Nyt saatoin joka päivä huoletta mennä mihin milloinkin halusin ja etsiä
+ yöpaikan sieltä minne satuin illalla päätymään.
+ Motelli on hieno keksintö.
+ Aamulla sitten vain pakkasin reppuni ja jatkoin taas matkaa – jonnekin
+ seuraavaan paikkaan.
+\end_layout
+
+\begin_layout Standard
+En oikeastaan tehnyt juuri mitään.
+ Muuta kuin ajelin ympäriinsä, katselin maisemia, kuuntelin musiikkia ja
+ radiota, mietiskelin syntyjä syviä.
+ Maisemien katseluun paikka soveltui kyllä oikein hyvin.
+ Monenlaista löytyy.
 \end_layout
 
 \begin_layout Section
-Kuvia kaliforniasta 2 
+Seattle
 \end_layout
 
 \begin_layout Standard
-Kirjoitettu: Tou 1st, 2009 by anttih
-\end_layout
-
-\begin_layout Standard
-Vähän on maisemapainotteista, mutta maisemia minäkin täällä lähinnä olen
- katsellut.
- Niitä täällä löytyykin jos jonkin näköisiä.
-\end_layout
-
-\begin_layout Section
-Siäädl 
-\end_layout
-
-\begin_layout Standard
-Kirjoitettu: Tou 3rd, 2009 by anttih
-\end_layout
-
-\begin_layout Standard
-Pitkästä aikaa paikassa, joka muistuttaa hieman kaupunkia.
+Pitkästä aikaa olin taas paikassa, joka muistutti hieman perinteistä käsitystäni
+ kaupungista.
  Jopa kävelin ulkona pari korttelia.
- Täältä löytyi ehkä ihmeellisin kirjasto, jossa olen koskaan poikennut.
- On tässäkin maassa ilmeisesti mahdollista rakentaa toimivia julkisia palveluita
- kaikelle kansalle.
+ Paikasta löytyi ehkä ihmeellisin kirjasto, jossa olin koskaan poikennut.
+ On Yhdysvalloissakin ilmeisesti mahdollista rakentaa toimivia julkisia
+ palveluita kaikelle kansalle.
  
 \end_layout
 
 \begin_layout Standard
-Roadtrippi alkaa olla finaalissa.
- Huomenna pitäis palauttaa auto ja hypätä bussiin kohti Vancouveria, katsomaan
+Roadtrippi alkoi olla finaalissa.
+ Oli aika palauttaa auto ja hypätä bussiin kohti Vancouveria, katsomaan
  onko siellä ketään kotona.
- Enköhän mä ala vähitellen myös katsella miten täältä pääsis Suomeen takasin.
- Ehkä poikkean vielä matkalla jossain, riippuu hieman siitä mistä päin ensi
- viikolla tuulee.
+ Aloin jo pohtia Suomeen paluuta, mietin poikkeaisiko vielä matkalla jossain.
+ Tuulen suunta ajatusten osalta vaihteli jo päivittäin.
 \end_layout
 
 \begin_layout Section
-Alkaiskohan tää olla tässä
+Alkaiskohan tää olla tässä - Vancouver
 \end_layout
 
 \begin_layout Standard
-Kirjoitettu: Tou 8th, 2009 by anttih
-\end_layout
-
-\begin_layout Standard
-Vancouverissa siskon perheen luona saanut viettää tämän viikon.
+Sain viettää viimeisen reissuviikkoni Vancouverissa siskon perheen luona.
  Puolet minusta taisi tosin lähteä kotiin jo suoraan Seattlesta, joten päätin
  sitten varata liput ja lennättää loputkin itsestäni sinne lauantaina perässä.
+ New York ja Dublin saivat nyt jäädä seuraavaan kertaan.
+\end_layout
+
+\begin_layout Standard
+Perhe-elämän ihmettelyä, vaikutti ihan kivalta kaupungilta, vaikka en siihen
+ sen kummemmin tutustunatkaan.
+ Vuoria ja vaikka mitä olisi ollut vieressä, mutta eipä enää kiinnostanut.
+ 
+\end_layout
+
+\begin_layout Standard
+Tulihan sitä jo nähtyä yhtä sun toista.
 \end_layout
 
 \end_body
